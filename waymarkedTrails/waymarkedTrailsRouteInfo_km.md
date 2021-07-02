@@ -3,6 +3,7 @@
 - The benefit of using these known waymarked trails is that they have reasonable signage and following them for the user will be easier.
 - Quiet routes and Regional routes are complete routes.
 - For longer routes (NCN and JMW) start and end points are given.
+- Note these endpoints files contain two (or perhaps 3) close together GPS positions since that was only way I could easily find to dump out GPX files. Either point is fine to use as a start/end. 
 
 ## Criteria for routes
 Should be within City of Edinburgh.
